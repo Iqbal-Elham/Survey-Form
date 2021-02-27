@@ -20,21 +20,21 @@ p{
 }
 #title{
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color:rgb(151, 67, 19);
+    color:rgb(10, 89, 134);
     font-weight: 200;
     
 }
 #description
 {
     font-size: 20px;
-    color:rgb(151, 67, 19);
+    color:rgb(42, 118, 168);
     font-style: italic;
-    text-shadow: 1px 1px 1px rgba(172, 134, 30) ;
+    text-shadow: 1px 1px 1px rgb(30, 96, 172) ;
 
 }
 form
 {
-    background-color: rgba(172, 134, 30, 0.8);
+    background-color: rgba(46, 154, 173, 0.8);
     margin-left: center;
     width: 600px;
     border-radius: 2%;
@@ -98,13 +98,13 @@ label {
 {
     
     display: block;
-    background:rgb(187, 148, 50);
+    background:rgb(42, 137, 167);
     width: 95%;
     color:white;
     border-radius: 5px;
     padding: 10px;
     margin-top: 20px;
-    border-color:rgb(180, 96, 48);
+    border-color:rgb(48, 57, 180);
     border-style: solid;
     cursor: pointer;
 
